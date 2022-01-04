@@ -22,13 +22,13 @@ Write a list of steps we think we will need to take to develop each feature:
    - 3: <!-- -->
    - 4: <!-- -->
    - 5: <!-- -->
-2. A Route for starting the process of adding prospects to the database
+2. Step 2:
    - 1: <!-- -->
    - 2: <!-- -->
    - 3: <!-- -->
    - 4: <!-- -->
    - 5: <!-- -->
-3. A Route for tracking the progress in database insertion
+3. Step 3:
    - 1: <!-- -->
    - 2: <!-- -->
    - 3:: <!-- -->
